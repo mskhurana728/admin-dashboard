@@ -19,6 +19,7 @@ button:hover{
 
                 /* Container Area */
 .container{
+    overflow: auto;
     height: 100vh;
     width: 100vw;
     display: grid;
@@ -204,6 +205,7 @@ button:hover{
 
 }
 .main-content{
+    /* overflow: auto; */
     grid-area: 3/3/-1/-1;
     font-family: 'Cairo', sans-serif;
     font-family: 'Lato', sans-serif;

@@ -27,3 +27,13 @@ Search Icon in Line Style
 By Lucía González
 
 <a href="https://iconscout.com/icons/bell" target="_blank">Bell Icon</a> by <a href="https://iconscout.com/contributors/eva-icons">Akveo</a> on <a href="https://iconscout.com">Iconscout</a>
+
+
+star-plus-outline
+Michael Irigoyen @mririgo 
+
+eye-plus-outline
+GreenTurtwig @greenturtwig 
+
+share-variant-outline
+Michael Irigoyen @mririgo 
